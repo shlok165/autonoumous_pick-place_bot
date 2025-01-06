@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/harshitkalra/autonoumous_pick-place_bot/install/robot_controller/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/build/turtle_catch_them_all",
+        "/home/harshitkalra/ros2_ws/install/turtle_catch_them_all/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harshitkalra/ros2_multi_bot_ws/install/spawning/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/harshitkalra/autonoumous_pick-place_bot/install/robot_controller/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/build/turtle_catch_them_all",
+        "/home/harshitkalra/ros2_ws/install/turtle_catch_them_all/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/harshitkalra/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harshitkalra/ros2_multi_bot_ws/install/spawning/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
